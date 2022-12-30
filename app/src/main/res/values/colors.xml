@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="green">#39AF9A</color>
+    <color name="green_200">#86C5BA</color>
+    <color name="green_700">#77B757</color>
+
+    <color name="red">#FF0000</color>
+    <color name="color_error">#D60000</color>
+
+    <color name="pink_100">#FFBEBE</color>
+    <color name="pink_300">#FF66A8</color>
+    <color name="pink_500">#FF2079</color>
+    <color name="pink_700">#DB015E</color>
+    <color name="pink_900">#330016</color>
+    <color name="violet_bravve">#E92EFB</color>
+
+    <color name="blue_200">#71B3E1</color>
+    <color name="blue_300">#82B2DD</color>
+    <color name="blue_bravve_1">#04005E</color>
+    <color name="blue_bravve">#1A1750</color>
+    <color name="blue_500">#4A4999</color>
+    <color name="blue_700">#070369</color>
+    <color name="blue_900">#3CB9FC</color>
+    <color name="blue_background">#070069</color>
+    <color name="blue_750">#020035</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#80000000</color>
+
+    <color name="gray_background">#F2F2F2</color>
+    <color name="gray_200">#9CA4AB</color>
+    <color name="gray_500">#6F7479</color>
+    <color name="gray_hint">#4D4D4D</color>
+    <color name="gray_stroke">#D8DDE4</color>
+    <color name="gray_3">#E1E5EB</color>
+    <color name="Gray_21">#363636</color>
+
+    <color name="black_background">#3C3B3B</color>
+    <color name="black_text">#282828</color>
+    <color name="black">#FF000000</color>
+    <color name="black_0">#000000</color>
+    <color name="dark_background">#191B1D</color>
+    <color name="dark_card">#202427</color>
+
+    <color name="color_hint">@color/gray_hint</color>
+    <color name="color_text">@color/black_text</color>
+    <color name="color_eye">@color/blue_700</color>
+    <color name="color_restrition">@color/gray_500</color>
+    <color name="color_restrition_error">@color/gray_500</color>
+    <color name="background_color">@color/gray_background</color>
+    <color name="color_button_sign_up">@color/blue_background</color>
+
+</resources>
